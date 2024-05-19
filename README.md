@@ -1,3 +1,4 @@
-# first-repository contains basic details of the program.
+# first-repository 
+It contains basic details of the program.
 <br>
 Author - kirankenny.
